@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "nama": "Meja Lipat",
+      "stock": 6,
+      "price": "909209432",
+      "serial": 1682697,
+      "status": "not",
+      "categoryId": "1",
+      "id": 1
+    },
+    {
+      "nama": "sdasda",
+      "stock": "d214",
+      "price": "324",
+      "serial": 0,
+      "status": "432",
+      "categoryId": "3",
+      "id": 2
+    },
+    {
+      "nama": "1213",
+      "stock": "42424",
+      "price": "3432",
+      "serial": "09230294",
+      "status": "234234",
+      "categoryId": "1",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Funitere"
+    },
+    {
+      "id": 2,
+      "nama": "Eletronic"
+    },
+    {
+      "id": 3,
+      "nama": "Handphone"
+    },
+    {
+      "id": 4,
+      "nama": "Beauty"
+    },
+    {
+      "id": 5,
+      "nama": "Fashion"
+    },
+    {
+      "id": 6,
+      "nama": "Food&Drink"
+    }
+  ]
+}
